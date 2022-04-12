@@ -1,1 +1,1 @@
-Repositório de treino do meu curso de Github.
+Repositório de treino do meu curso de Github. Algumas pastas compartilham os mesmos arquivos usados nas seções anteriores para dar prosseguimento.
