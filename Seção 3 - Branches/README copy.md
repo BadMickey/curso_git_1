@@ -1,1 +1,0 @@
-Pasta com os arquivos e commits da Seção 2 - Comandos Fundamentais.
