@@ -2,3 +2,5 @@ teste da branch criacao2
 a
 commitando para testar merge com a main
 alterações para o stash
+
+testando branch sendo criada e salva no repo por outro usuario
