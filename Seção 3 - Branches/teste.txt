@@ -1,3 +1,5 @@
 teste da branch criacao2
 a
 commitando para testar merge com a main
+alterações para o stash
+1
