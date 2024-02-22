@@ -7,4 +7,8 @@ console.log('oi 3')
 console.log('oi 4')
 console.log('oi 4')
 
-
+function addCart(p){
+    cart = {
+        return : cart
+    }
+}
