@@ -1,11 +1,13 @@
 # E-Commerce empresa X (README de estudo)
 
-Vamos criar um e-commerce.
+Vamos criar um **e-commerce**, para a *empresa X* e etc.
 
-## Funcionalidades
+## Funcionalidades:
 
-Checkout, produtos.
+_Checkout, **produtos.**_
 
-###### Melhorias do projeto
+**Checkout, _produtos._**
 
-Melhoria 1 e 2
+###### Melhorias do projeto:
+
+__Melhoria__ _1 e 2_
