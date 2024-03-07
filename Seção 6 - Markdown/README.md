@@ -34,3 +34,13 @@ __Melhoria__ _1 e 2_
 ### Imagem externa
 
 ![Python preto](https://cdn-icons-png.flaticon.com/512/1822/1822920.png)
+
+## Links interessantes:
+
+[Google](google.com)
+
+[google.com](google.com)
+
+google: https://www.google.com
+
+[![python](img/download%20(1).png)](https://www.google.com)
