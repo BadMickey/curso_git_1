@@ -52,3 +52,6 @@ function soma(a,b){
     return a+b;
 }
 ```
+## Lista de tarefas a se fazer
+[x] Área de membros
+[] Integração
