@@ -26,3 +26,11 @@ __Melhoria__ _1 e 2_
     1. Login diferente para cada grupo de usuários
     2. Desconto especial para cada grupo de usuários
 2. Integração com outros pagamentos
+
+### Imagem local
+
+![Python](img/download%20(1).png)
+
+### Imagem externa
+
+![Python preto](https://cdn-icons-png.flaticon.com/512/1822/1822920.png)
