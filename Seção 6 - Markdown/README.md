@@ -44,3 +44,11 @@ __Melhoria__ _1 e 2_
 google: https://www.google.com
 
 [![python](img/download%20(1).png)](https://www.google.com)
+
+## Código da função soma
+
+```javascript
+function soma(a,b){
+    return a+b;
+}
+```
