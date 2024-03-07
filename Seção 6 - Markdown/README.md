@@ -53,5 +53,5 @@ function soma(a,b){
 }
 ```
 ## Lista de tarefas a se fazer
-[x] Área de membros
-[] Integração
+- [x] Área de membros
+- [ ] Integração
